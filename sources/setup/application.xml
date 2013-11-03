@@ -2,7 +2,7 @@
 <application>
 
 	<definition>
-		<idname>KM Mailer</idname>
+		<idname>kmmailer</idname>
 		<release>
 			<version>1.5-1</version>
 			<date>2013/11/03</date>
