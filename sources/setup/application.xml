@@ -4,7 +4,7 @@
 	<definition>
 		<idname>kmmailer</idname>
 		<release>
-			<version>1.5-1</version>
+			<version>1.5-2</version>
 			<date>2013/11/03</date>
 			<changesfile>CHANGES</changesfile>
 		</release>

@@ -9,7 +9,7 @@
 <project name="kmmailer" basedir="sources" default="package">
 
 	<property name="name" value="kmmailer" />
-	<property name="version" value="1.5-1" />
+	<property name="version" value="1.5-2" />
 
 	<target name="sources">
 		<tar destfile="../build/${name}-src-${version}.tgz" compression="gzip">
