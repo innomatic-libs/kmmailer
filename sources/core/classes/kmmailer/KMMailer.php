@@ -86,7 +86,7 @@
  * OF SUCH DAMAGE.
  **/
 
-class KM_Mailer {
+class KMMailer {
 	public $server;
 	public $port;
 	public $username;
