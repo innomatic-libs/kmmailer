@@ -4,7 +4,7 @@
     <definition>
         <idname>kmmailer</idname>
         <release>
-            <version>1.5-2</version>
+            <version>1.5.3</version>
             <date>2014/01/26</date>
             <changesfile>CHANGES</changesfile>
         </release>
@@ -36,5 +36,5 @@
         <class name="kmmailer/KMMailer.php" />
 
     </components>
-    
+
 </application>
