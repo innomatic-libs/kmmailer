@@ -1,40 +1,40 @@
 <?xml version='1.0'?>
 <application>
 
-	<definition>
-		<idname>kmmailer</idname>
-		<release>
-			<version>1.5-2</version>
-			<date>2013/11/03</date>
-			<changesfile>CHANGES</changesfile>
-		</release>
-		<description>This is a simple SMTP class that supports secure login through TLS or SSL connections. Can be used to send email through GMail for example</description>
-		<category>libraries</category>
-		<iconfile></iconfile>
-		<legal>
-			<author>
-				<name>Howard Walsh</name>
-				<email>support@kidmoses.com</email>
-				<web>http://www.kidmoses.com/blog-article.php?bid=56</web>
-			</author>
-			<copyright>Copyright (c) 2011, Howard Walsh, KidMoses.com</copyright>
-			<license>Open Source</license>
-			<licensefile>LICENSE</licensefile>
-		</legal>
-		<support>
-			<supportemail>helpdesk@innoteam.it</supportemail>
-			<bugsemail>helpdesk@innoteam.it</bugsemail>
-			<maintainer>
-				<name>Alex Pagnoni</name>
-				<email>alex.pagnoni@innoteam.it</email>
-			</maintainer>
-		</support>
-	</definition>
+    <definition>
+        <idname>kmmailer</idname>
+        <release>
+            <version>1.5.3</version>
+            <date>2014/01/26</date>
+            <changesfile>CHANGES</changesfile>
+        </release>
+        <description>This is a simple SMTP class that supports secure login through TLS or SSL connections. Can be used to send email through GMail for example</description>
+        <category>libraries</category>
+        <iconfile></iconfile>
+        <legal>
+            <author>
+                <name>Howard Walsh</name>
+                <email>support@kidmoses.com</email>
+                <web>http://www.kidmoses.com/blog-article.php?bid=56</web>
+            </author>
+            <copyright>Copyright (c) 2011, Howard Walsh, KidMoses.com</copyright>
+            <license>Open Source</license>
+            <licensefile>LICENSE</licensefile>
+        </legal>
+        <support>
+            <supportemail>helpdesk@innoteam.it</supportemail>
+            <bugsemail>helpdesk@innoteam.it</bugsemail>
+            <maintainer>
+                <name>Alex Pagnoni</name>
+                <email>alex.pagnoni@innoteam.it</email>
+            </maintainer>
+        </support>
+    </definition>
 
-	<components>
+    <components>
 
-		<class name="kmmailer/KMMailer.php" />
+        <class name="kmmailer/KMMailer.php" />
 
-	</components>
-	
+    </components>
+
 </application>

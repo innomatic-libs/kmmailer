@@ -1,0 +1,16 @@
+{
+    "name": "innomatic-libs/kmmailer",
+    "description": "kmmailer library",
+    "homepage": "http://www.innomatic.io",
+    "type": "innomatic-legacy-application",
+    "authors": [
+        {
+            "name": "Innomatic Team",
+            "homepage": "http://www.innomatic.io"
+        }
+    ],
+    "require": {
+        "innomatic/innomatic-legacy-installer": "^1.0@alpha",
+        "innomatic/innomatic-legacy": ">=6.4 <8.0"
+    }
+}
